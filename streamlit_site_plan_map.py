@@ -53,8 +53,8 @@ LAYOUTS = {
         'page_w': Inches(11.0), 'page_h': Inches(8.5),
         'mar_l': Inches(0.5),   'mar_r': Inches(0.5),
         'mar_t': Inches(0.312), 'mar_b': Inches(0.25),
-        'map_w': Inches(10.0),  'map_h': Inches(6.4),
-        'img_px_w': 1500,       'img_px_h': 960,
+        'map_w': Inches(10.0),  'map_h': Inches(6.0),
+        'img_px_w': 1500,       'img_px_h': 900,
     },
 }
 
