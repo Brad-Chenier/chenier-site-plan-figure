@@ -1,0 +1,6 @@
+streamlit
+requests
+Pillow
+python-docx
+shapely
+lxml
